@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CondationalExercise.cs" />
+    <Compile Include="LoopExercise.cs" />
+    <Compile Include="Strings.cs" />
+    <Compile Include="ArrayAndList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
